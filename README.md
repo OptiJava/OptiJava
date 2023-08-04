@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [OptCarpetAddition](https://github.com/OptiJava/OptCarpetAddition) and [hooks](https://github.com/OptiJava/hooks).
+- 🌱 I’m currently learning Java & Kotlin & Go & Python.
+- 💬 Contact at [Telegram](https://t.me/optijvav) or [Twitter](https://twitter.com/JavaOpti60261).
+- 📫 My blog [here](https://optijava.cote.fun), build on GitHub Pages.
+
+[![OptiJava's GitHub stats](https://github-readme-stats.vercel.app/api?username=OptiJava&theme=radical&show_icons=true&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptiJava&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **OptiJava/OptiJava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
