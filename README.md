@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [OptCarpetAddition](https://github.com/OptiJava/OptCarpetAddition) and [hooks](https://github.com/OptiJava/hooks).
 - 🌱 I’m currently learning Java & Kotlin & Python & Go.
 - 💬 Contact at [Telegram](https://t.me/optijvav) or [Twitter](https://twitter.com/JavaOpti60261).
-- 📫 My blog [here](https://optijava.cote.fun), build on GitHub Pages.
+- 📫 My blog [here](https://blog.optijava.top), build on GitHub Pages.
 
 [![OptiJava's GitHub stats](https://github-readme-stats.vercel.app/api?username=OptiJava&theme=radical&show_icons=true&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 \
