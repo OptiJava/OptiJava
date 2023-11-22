@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [OptCarpetAddition](https://github.com/OptiJava/OptCarpetAddition) and [hooks](https://github.com/OptiJava/hooks).
-- 🌱 I’m currently learning Java & Kotlin & Python & Go.
+- 🌱 I’m currently learning Java & Kotlin & Python.
 - 💬 Contact at [Telegram](https://t.me/optijvav) or [Twitter](https://twitter.com/JavaOpti60261).
 - 📫 My blog [here](https://blog.optijava.top), build on GitHub Pages.
 
