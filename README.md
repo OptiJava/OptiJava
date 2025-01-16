@@ -1,3 +1,8 @@
+..... I feel really sorry that I can't actively develop :(
+It's been a long way since I started developing.
+Life has been hard so that code is a passer-by.....
+I know that I can fly! With life causing perfecting!
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on [OptCarpetAddition](https://github.com/OptiJava/OptCarpetAddition) and [hooks](https://github.com/OptiJava/hooks).
